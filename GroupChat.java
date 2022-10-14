@@ -114,4 +114,3 @@ class ReadThread implements Runnable {
 
     }
 }
-
